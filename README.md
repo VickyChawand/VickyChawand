@@ -3,9 +3,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [Chat App](https://github.com/VickyChawand/S_to_F)
+- 🔭 I’m currently working on [AI Chat Assistant]
 
-- 🌱 I’m currently learning **React, Node, Java**
+- 🌱 I’m currently learning **React, TypeScript, Express.js**
 
 - 👨‍💻 All of my projects are available at [Virtual_me](https://vicky-chawand-porfolio.netlify.app/)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shivanshchawand044@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1f0eWdAv09xrcOB9cRL07WyXkuk-pL6FT/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1886sBfK-tWnueM3cvFLqkycQveGwVPZa/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
